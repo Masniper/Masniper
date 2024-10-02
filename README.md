@@ -1,6 +1,6 @@
-# Welcome to My GitHub Page! 👋
+# Welcome to My GitHub Page! 🎉
 
-![Welcome Animation](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+![Funny Welcome](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 
 ## 👨‍💻 About Me:
 I’m **Mohammad Ali Shahsavari**, a **Front-End Developer** with over 4 years of dedicated experience in building seamless web and mobile applications. My expertise lies in **React**, **React Native**, and the development of dynamic, user-centric products. With a strong foundation in **HTML**, **CSS**, **JavaScript**, and related frameworks, I continually strive to expand my skill set and keep up with modern web and mobile technologies.
@@ -16,40 +16,40 @@ I’m **Mohammad Ali Shahsavari**, a **Front-End Developer** with over 4 years o
 
 ### **Programming Languages:**
 <p align="center">
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
 </p>
 
 ### **Frameworks:**
 <p align="center">
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
 </p>
 
 ### **Libraries:**
 <p align="center">
-  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios">
 </p>
 
 ### **Version Control:**
 <p align="center">
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black)
-  ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black" alt="GitLab">
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure">
 </p>
 
 ### **Other Skills:**
 <p align="center">
-  ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-007ACC?style=for-the-badge&logo=responsive-web-design&logoColor=white)
-  ![Agile Methodologies](https://img.shields.io/badge/Agile-61DAFB?style=for-the-badge)
-  ![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=rest-api&logoColor=white)
-  ![Clean Code](https://img.shields.io/badge/Clean%20Code-0175C2?style=for-the-badge)
+  <img src="https://img.shields.io/badge/Responsive%20Design-007ACC?style=for-the-badge&logo=responsive-web-design&logoColor=white" alt="Responsive Design">
+  <img src="https://img.shields.io/badge/Agile-61DAFB?style=for-the-badge" alt="Agile Methodologies">
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=rest-api&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/Clean%20Code-0175C2?style=for-the-badge" alt="Clean Code">
 </p>
 
 <p align="center">
