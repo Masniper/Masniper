@@ -1,6 +1,7 @@
 # Welcome to My GitHub Page! 🎉
-
-![Funny Welcome](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
+<p align="center">
+    <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDh4eHBlcXJya2kweW45bmtucGVsZnhrcjdmcG0weGtpYW14dGd3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4lu5FuhtrbaOQgKN57/giphy.gif" alt="Fun Welcome" />
+  </p>
 
 ## 👨‍💻 About Me:
 **Seasoned Front-End Developer | Crafting Seamless Web and Mobile Experiences for Over 4 Years**
@@ -89,5 +90,7 @@ My commitment to delivering high-quality projects is demonstrated by a proven tr
 
 ## 💬 Fun Fact:
 I love playing video games, especially **FPS (First Person Shooters)**, and I enjoy watching anime and reading tech books in my free time!
+  <p align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41NGsxZ3ZrZnp3czF4bmp0emJ5YXp5azh5dzgwY3V5dDA3aWM2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif" alt="Fun Fact" />
+  </p>
 
-![Silicon Valley](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41NGsxZ3ZrZnp3czF4bmp0emJ5YXp5azh5dzgwY3V5dDA3aWM2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif)
