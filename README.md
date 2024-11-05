@@ -73,7 +73,7 @@ My commitment to delivering high-quality projects is demonstrated by a proven tr
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohammad-ali-shahsavari-9772b1293)
 - [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Masniper)
 - [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram)](https://www.instagram.com/ttvmasniper)
-- [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:mohammad0ali0shahsavari@gmail.com)
+- [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:mohammad.alii.shahsavari@gmail.com)
 
 ## 🚀 GitHub Stats:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masniper&layout=compact&theme=radical" alt="Top languages" />
