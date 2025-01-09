@@ -1,87 +1,142 @@
-# Welcome 🎉
-<p align="center">
-    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW41NGsxZ3ZrZnp3czF4bmp0emJ5YXp5azh5dzgwY3V5dDA3aWM2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gDPxwdP6SKFnsWDJ2u/giphy.gif" alt="Fun Fact" />
+<div align="center" style="font-family: 'Arial', sans-serif;">
+<h1 style="font-family: Arial, sans-serif;">
+  Hi there, I'm <span>
+        
+[Mohammad Ali](https://masniper.github.io/simplefolio-next/)
+    </span>
+</h1>
+  <p style="font-size: 18px;">
+    <a href="https://masniper.github.io/simplefolio-next/" style="text-decoration: none;"">
+      <img src="https://img.shields.io/badge/-Portfolio-FF7C00?logo=portfolio&logoColor=white&style=flat" alt="Portfolio">
+    </a>&nbsp;
+    <a href="https://www.linkedin.com/in/m-ali-shahsavari" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
+    </a>&nbsp;
+    <a href="https://resume.io/r/yonraocsV" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/-CV-6D4C41?logo=cv&logoColor=white&style=flat" alt="CV">
+    </a>&nbsp;
+    <a href="mailto:mohammad.alii.shahsavari@gmail.com" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/-Contact%20me-39477F?logo=gmail&logoColor=white&style=flat" alt="Contact me">
+    </a>
   </p>
+</div>
 
-## 👨‍💻 About Me:
-**Seasoned Front-End Developer | Crafting Seamless Web and Mobile Experiences for Over 4 Years**
+---
+
+### 👨🏻‍💻 **About Me**
+<img src="https://github.com/Masniper/Masniper/blob/main/Developer.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+
+Seasoned Front-End Developer | Crafting Seamless Web and Mobile Experiences for Over 4 Years.
 
 With over four years of experience in front-end development, I specialize in creating responsive, user-friendly web and mobile applications. My approach is rooted in writing clean, maintainable code and designing seamless interfaces that enhance user experiences. I thrive in collaborative, agile environments where I can contribute to innovative solutions that meet both client goals and user needs. Passionate about continuous learning and staying current with industry trends, I’m always eager to bring fresh ideas and effective solutions to each project.
 
 💡 Let's collaborate to pioneer new heights and create exceptional digital experiences together!
 
-## 🛠️ My Skills:
+---
 
-### **Programming Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+### 🛠 **Tech Stack**
 
-### **Frameworks:**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![JQuery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
-### **Libraries:**
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-![FinalForm](https://img.shields.io/badge/FinalForm-000000?style=for-the-badge&logo=finalform&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![i18Next](https://img.shields.io/badge/i18Next-26A69A?style=for-the-badge&logo=i18next&logoColor=white)
-![Formik](https://img.shields.io/badge/Formik-FFDD57?style=for-the-badge&logo=formik&logoColor=black)
-![Toastify](https://img.shields.io/badge/Toastify-FFDD57?style=for-the-badge&logo=toastify&logoColor=black)
-![SWR](https://img.shields.io/badge/SWR-0081CB?style=for-the-badge&logo=swr&logoColor=white)
-![Yup](https://img.shields.io/badge/Yup-F7E018?style=for-the-badge)
-![PushNotification](https://img.shields.io/badge/PushNotification-FFCA28?style=for-the-badge)
-![Vector Icons](https://img.shields.io/badge/Vector%20Icons-232323?style=for-the-badge&logo=vectoricons)
-![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm)
-![MapBox](https://img.shields.io/badge/MapBox-000000?style=for-the-badge&logo=mapbox)
-![React Navigation](https://img.shields.io/badge/React_Navigation-000000?style=for-the-badge)
-![Background Geolocation](https://img.shields.io/badge/Background%20Geolocation-000000?style=for-the-badge)
-
-### **Responsive Design:**
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Native Base](https://img.shields.io/badge/Native%20Base-009688?style=for-the-badge&logo=nativebase&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-
-### **Version Control:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=black)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-### **Other Skills:**
-![REST API](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=rest-api&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc)
-![Webpack](https://img.shields.io/badge/WebPack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Agile](https://img.shields.io/badge/Agile-61DAFB?style=for-the-badge)
-![Clean Code](https://img.shields.io/badge/Clean%20Code-0175C2?style=for-the-badge)
-
-## 📫 How to Reach Me:
-
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohammad-ali-shahsavari-9772b1293)
-- [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Masniper)
-- [![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram)](https://www.instagram.com/ttvmasniper)
-- [![Email](https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail)](mailto:mohammad.alii.shahsavari@gmail.com)
-
-## 🚀 GitHub Stats:
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masniper&layout=compact&theme=radical" alt="Top languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Masniper&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masniper&theme=dark" alt="GitHub streak stats" />
-
-
-## 💬 Fun Fact:
-I love playing video games, especially **FPS (First Person Shooters)**, and I enjoy watching anime and reading tech books in my free time!
-  <p align="center">
-          <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zpc2QybzI4aXMzM2dsbjdieGZ1bzV1djF4MndoYW1hemJtMzVkZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VwM9w72cXiSHu/giphy.gif" alt="gamer" />
+<details open>
+  <summary><b>Languages</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Python-437CAC?logo=python&logoColor=white&style=flat">&nbsp;
   </p>
+</details>
 
+<details>
+  <summary><b>Frontend Frameworks and Libraries</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-D3.js-F9A03C?logo=d3.js&logoColor=white&style=flat">&nbsp;
+  </p>
+</details>
+
+<details>
+  <summary><b>UI/Styling Frameworks</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Material%20UI-blueviolet?logo=mui&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Ant%20Design-0170FE?logo=antdesign&logoColor=white&style=flat">&nbsp;
+  </p>
+</details>
+
+<details>
+  <summary><b>Backend Tools and Services</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat">&nbsp;
+  </p>
+</details>
+
+<details>
+  <summary><b>Real-Time Communication Tools</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/-WebRTC-333333?logo=webrtc&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-WebSocket-010101?logo=websocket&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Socket.IO-010101?logo=socket.io&logoColor=white&style=flat">&nbsp;
+  </p>
+</details>
+
+
+<details>
+  <summary><b>Development and CI/CD Tools:</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Gradle-02303A?logo=gradle&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat">&nbsp;
+  </p>
+</details>
+
+<details>
+  <summary><b>Monitoring and Error Tracking:</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/-Sentry-362D59?logo=sentry&logoColor=white&style=flat">&nbsp;
+  </p>
+</details>
+        
+<details>
+  <summary><b>Collaboration and Management:</b></summary>
+  <p>
+    <img src="https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat">&nbsp;
+    <img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat">&nbsp;
+  </p>
+</details>
+
+
+---
+
+### ⚙️ GitHub Analytics
+
+<a href="https://github.com/masniper">
+  <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Masniper&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="155em" src="https://github-readme-streak-stats.herokuapp.com/?user=Masniper&theme=dark" alt="GitHub streak stats" />
+</a>
+
+---
+
+### 💡 Show Some Love!
+
+<p align="center">
+<b>Show some ❤️ by starring some of the repositories!</b>
+</p>
