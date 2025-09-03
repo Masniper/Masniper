@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/m-ali-shahsavari" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn">
     </a>&nbsp;
-    <a href="https://resume.io/r/yonraocsV" style="text-decoration: none;">
+    <a href="https://resume.io/r/yonraocsV](https://masniper.github.io/simplefolio-next/assets/resume.pdf" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/-CV-6D4C41?logo=cv&logoColor=white&style=flat" alt="CV">
     </a>&nbsp;
     <a href="mailto:mohammad.alii.shahsavari@gmail.com" style="text-decoration: none;">
