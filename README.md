@@ -24,13 +24,16 @@
 ---
 
 ### 👨🏻‍💻 **About Me**
-<img src="https://github.com/Masniper/Masniper/blob/main/Developer.png" min-width="300px" max-width="300px" width="350px" align="right"> 
+<img src="https://github.com/Masniper/Masniper/blob/main/Developer.png" min-width="300px" max-width="300px" width="350px" align="right">  
 
-Seasoned Front-End Developer | Crafting Seamless Web and Mobile Experiences for Over 4 Years.
+Hi, I’m **Mohammad Ali** — a **Senior Frontend Developer** with 4+ years of experience turning complex ideas into responsive, high‑performance web and mobile applications.  
 
-With over four years of experience in front-end development, I specialize in creating responsive, user-friendly web and mobile applications. My approach is rooted in writing clean, maintainable code and designing seamless interfaces that enhance user experiences. I thrive in collaborative, agile environments where I can contribute to innovative solutions that meet both client goals and user needs. Passionate about continuous learning and staying current with industry trends, I’m always eager to bring fresh ideas and effective solutions to each project.
+- **Core Stack:** React.js · React Native · Next.js · GraphQL · REST APIs · Redux · Zustand  
+- **UI/UX & Performance:** Creating intuitive, accessible interfaces & optimizing load times using Lighthouse & PageSpeed Insights  
+- **Beyond Frontend:** Node.js · Express.js · PostgreSQL · Firebase · WebSockets for real‑time communication  
+- **Special Projects:** Chrome Extensions, automation bots, and workflow optimizations saving clients hours of work weekly  
 
-💡 Let's collaborate to pioneer new heights and create exceptional digital experiences together!
+💡 Passionate about staying sharp with the latest tech, contributing to open source, and pushing the limits of frontend architecture.  
 
 ---
 
@@ -125,6 +128,10 @@ With over four years of experience in front-end development, I specialize in cre
 
 
 ---
+<img src="https://raw.githubusercontent.com/masniper/masniper/output/snake.svg" alt="Snake animation" />
+
+---
+
 
 ### ⚙️ GitHub Analytics
 
