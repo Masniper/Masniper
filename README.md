@@ -26,14 +26,15 @@
 ### 👨🏻‍💻 **About Me**
 <img src="https://github.com/Masniper/Masniper/blob/main/Developer.png" min-width="300px" max-width="300px" width="350px" align="right">  
 
-Hi, I’m **Mohammad Ali** — a **Senior Frontend Developer** with 4+ years of experience turning complex ideas into responsive, high‑performance web and mobile applications.  
+Hi, I’m **Mohammad Ali** — a **Full-stack Software Engineer** with 4+ years of experience delivering scalable, end-to-end web and mobile solutions.  
 
-- **Core Stack:** React.js · React Native · Next.js · GraphQL · REST APIs · Redux · Zustand  
-- **UI/UX & Performance:** Creating intuitive, accessible interfaces & optimizing load times using Lighthouse & PageSpeed Insights  
-- **Beyond Frontend:** Node.js · Express.js · PostgreSQL · Firebase · WebSockets for real‑time communication  
-- **Special Projects:** Chrome Extensions, automation bots, and workflow optimizations saving clients hours of work weekly  
+-  **Frontend:** React.js · React Native · Next.js · Redux · Zustand · Tailwind CSS
+-  **Backend & APIs:** Node.js · Express.js · Python (Django) · PostgreSQL · GraphQL · REST APIs · WebSockets
+-  **Infrastructure & DevOps:** Linux Server Admin · Docker · Nginx · CI/CD Pipelines · DNS Management · Automated Deployments
+-  **Performance & UI/UX:** Creating intuitive interfaces & optimizing load times using Lighthouse & PageSpeed Insights  
+-  **Special Projects:** Chrome Extensions, automation bots, and workflow optimizations saving clients hours of work weekly  
 
-💡 Passionate about staying sharp with the latest tech, contributing to open source, and pushing the limits of frontend architecture.  
+💡 Passionate about building robust architectures from the server to the client, contributing to open source, and continuous learning.
 
 ---
 
